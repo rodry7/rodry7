@@ -1,10 +1,11 @@
 ### Hi there 👋, I'm Rodrigo Alvarado
 
-I'm a student of Systems Engineering :)
+I'm a student of Systems Engineering and a CTF player :)
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodry7&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<script src="https://tryhackme.com/badge/695355"></script>
 
 <!--
 **rodry7/rodry7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
